@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklun_dao=self.webpackChunklun_dao||[]).push([[526],{6534:function(l){l.exports=JSON.parse('{"allTagsPath":"/LunDAO/blog/tags","slug":"/LunDAO/blog/tags/hello","name":"hello","count":2,"permalink":"/LunDAO/blog/tags/hello"}')}}]);
